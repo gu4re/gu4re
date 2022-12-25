@@ -3,7 +3,7 @@
 [![My Web](https://img.shields.io/badge/-My%20Web-white?style=for-the-badge&logo=githubsponsors&logoColor=black)](https://gu4re.github.io)
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://gu4re.github.io)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/404208733070163968)
 [![Gmail](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guare4business@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20621782)
 
