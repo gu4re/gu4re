@@ -1,10 +1,10 @@
 # 💫 About Me:
-👨🏼‍🎓    I’m currently taking my third year on Computer Engineering at [@URJC](https://urjc.es)<br>🕴🕴  Able to collaborate in everything!! Always wanting to improve myself in every computer's field. <br>🤝🏼  I’m looking for help with automations in OS systems. I'm trying to make lives easier developing new automations of day-a-day field so hope someone has something to add!!.<br>📚  I’m currently learning Automations in OS systems but I´m always working on sth...i'm always fiddling with everything related to PC!<br>💬 Ask me about any software/hardware questions! I'll try to help you as far as I know.<br>🛠   I´m working on PC building so I can advise you about any hardware question too. <br>⚡  Feel free to read and fork my projects!<br> ⚠   404 LINE 255 NOT FOUND!<br><br>
-[![My Web](https://img.shields.io/badge/-My%20Web-white?style=for-the-badge&logo=githubsponsors&logoColor=black)](https://gu4re.github.io)
+👨🏼‍🎓    I’m currently taking my third year on Computer Engineering at [@URJC](https://urjc.es)<br>🕴🕴  Able to collaborate in everything!! Always wanting to improve myself in every computer's field. <br>🤝🏼  I’m looking for help with automations in OS systems. I'm trying to make lives easier developing new automations of day-a-day field so hope someone has something to add!!.<br>📚  I’m currently learning Automations in OS systems but I´m always working on sth...i'm always fiddling with everything related to PC!<br>💬 Ask me about any software/hardware questions! I'll try to help you as far as I know.<br>🛠   I´m working on PC building so I can advise you about any hardware question too. <br>⚡  Feel free to read and fork my projects!<br> ⚠   404 LINE 255 NOT FOUND!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/404208733070163968)
 [![Gmail](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guare4business@gmail.com)
+[![My Web](https://img.shields.io/badge/-My%20Web-purple?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://gu4re.github.io)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20621782)
 
 # 💻 Tech Stack:
