@@ -6,7 +6,7 @@
 💬 [Ask me here](https://github.com/gu4re/gu4re/issues) about any software/hardware questions! I'll try to help you as far as I know.<br>
 🛠   I´m working on PC building so I can advise you about any hardware question too. <br>
 ⚡  Feel free to read and fork my projects!<br> 
-⚠   404 LINE 255 NOT FOUND!
+⚠   Segmentation fault (core dumped)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/404208733070163968)
