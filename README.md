@@ -27,13 +27,18 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gu4re&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gu4re&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gu4re&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gu4re&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gu4re&theme=vision-friendly-dark&hide_border=false" />
+</a>
+<a href="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu4re&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</a>
 
 ### ✍️ Random Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
 [![](https://visitcount.itsvg.in/api?id=gu4re&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 To keep the search of line 255 error!
