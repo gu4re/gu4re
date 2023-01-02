@@ -3,7 +3,7 @@
 🕴🕴  Able to collaborate in everything!! Always wanting to improve myself in every computer's field. <br>
 🤝🏼  I’m looking for help with automations in OS systems. I'm trying to make lives easier developing new automations of day-a-day field so hope someone has something to add!!.<br>
 📚  I’m currently learning Automations in OS systems but I´m always working on sth...i'm always fiddling with everything related to PC!<br>
-💬 Ask me about any software/hardware questions! I'll try to help you as far as I know.<br>
+💬 [Ask me here](https://github.com/gu4re/gu4re/issues) about any software/hardware questions! I'll try to help you as far as I know.<br>
 🛠   I´m working on PC building so I can advise you about any hardware question too. <br>
 ⚡  Feel free to read and fork my projects!<br> 
 ⚠   404 LINE 255 NOT FOUND!
@@ -43,10 +43,11 @@
 </a>
 <br>
 <a href="https://visitcount.itsvg.in">
-  <img align="right" src="https://visitcount.itsvg.in/api?id=gu4re&icon=2&color=0" />
+  <img align="center" height=23 width=157 src="https://visitcount.itsvg.in/api?id=gu4re&icon=0&color=12" />
+</a>
+<a href="">
+  <img align="center" height=23 width=157 src="https://img.shields.io/github/issues/gu4re/gu4re?color=%23e5e5e5&labelColor=%23171717&label=Total%20Issues&logo=messenger&logoColor=%23e5e5e5" />
 </a>
 
-## 💰 To keep the search of line 255 error!
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gu4re) 
-
+##
 ###### *Credits to [@GPRM](https://gprm.itsvg.in/) & [@SMIC](https://simpleicons.org/) & [@SHLDS](https://shields.io/)*
