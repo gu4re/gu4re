@@ -28,10 +28,10 @@
 
 # 📊 GitHub Stats:
 <a href="">
-  <img align="center" height=300 width=300 src="https://github-readme-stats.vercel.app/api?username=gu4re&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img align="center" height=200 width=345 src="https://github-readme-stats.vercel.app/api?username=gu4re&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
 <a href="">
-  <img align="center" height=300 width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=gu4re&theme=vision-friendly-dark&hide_border=false" />
+  <img align="center" height=200 width=345 src="https://github-readme-streak-stats.herokuapp.com/?user=gu4re&theme=vision-friendly-dark&hide_border=false" />
 </a>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu4re&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
