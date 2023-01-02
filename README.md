@@ -34,12 +34,17 @@
   <img align="center" height=163 src="https://github-readme-streak-stats.herokuapp.com/?user=gu4re&theme=vision-friendly-dark&hide_border=false" />
 </a>
 <a href="">
-  <img align="center" height=105 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu4re&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img align="left" height=105 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu4re&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </a>
 
 ### ✍️ Random Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br>
-[![](https://visitcount.itsvg.in/api?id=gu4re&icon=2&color=0)](https://visitcount.itsvg.in)
+<a href="">
+  <img align="center" height=100 width=490 src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</a>
+<br>
+<a href="https://visitcount.itsvg.in">
+  <img align="right" src="https://visitcount.itsvg.in/api?id=gu4re&icon=2&color=0" />
+</a>
 
 ## 💰 To keep the search of line 255 error!
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gu4re) 
