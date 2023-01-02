@@ -27,27 +27,27 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 # 📊 GitHub Stats:
-<a href="">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height=163 src="https://github-readme-stats.vercel.app/api?username=gu4re&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
-<a href="">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height=163 src="https://github-readme-streak-stats.herokuapp.com/?user=gu4re&theme=vision-friendly-dark&hide_border=false" />
 </a>
-<a href="">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" height=105 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu4re&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </a>
 
 ### ✍️ Random Dev Quote of the Day
-<a href="">
+<a href="https://github.com/PiyushSuthar/github-readme-quotes">
   <img align="center" height=100 width=490 src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </a>
 <br>
 <a href="https://visitcount.itsvg.in">
   <img align="center" height=23 width=157 src="https://visitcount.itsvg.in/api?id=gu4re&icon=0&color=12" />
 </a>
-<a href="https://github.com/gu4re/gu4re/issues">
+<a href="https://img.shields.io">
   <img align="center" height=23 width=157 src="https://img.shields.io/github/issues/gu4re/gu4re?color=%23e5e5e5&labelColor=%23171717&label=Total%20Queries&logo=messenger&logoColor=%23e5e5e5" />
 </a>
 
 ##
-###### *Credits to [@GPRM](https://gprm.itsvg.in/) & [@SMIC](https://simpleicons.org/) & [@SHLDS](https://shields.io/)*
+###### *Credits to [@AnuragHazra](https://github.com/anuraghazra) && [@PiyushSuthar](https://github.com/PiyushSuthar) && [@SMIC](https://simpleicons.org/) && [@SHLDS](https://shields.io/)*
