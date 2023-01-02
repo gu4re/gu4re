@@ -34,7 +34,7 @@
   <img align="center" height=163 src="https://github-readme-streak-stats.herokuapp.com/?user=gu4re&theme=vision-friendly-dark&hide_border=false" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu4re&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img align="center" height=105 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu4re&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </a>
 
 ### ✍️ Random Dev Quote of the Day
