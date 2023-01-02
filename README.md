@@ -46,7 +46,7 @@
   <img align="center" height=23 width=157 src="https://visitcount.itsvg.in/api?id=gu4re&icon=0&color=12" />
 </a>
 <a href="https://github.com/gu4re/gu4re/issues">
-  <img align="center" height=23 width=157 src="https://img.shields.io/github/issues/gu4re/gu4re?color=%23e5e5e5&labelColor=%23171717&label=Total%20Issues&logo=messenger&logoColor=%23e5e5e5" />
+  <img align="center" height=23 width=157 src="https://img.shields.io/github/issues/gu4re/gu4re?color=%23e5e5e5&labelColor=%23171717&label=Total%20Queries&logo=messenger&logoColor=%23e5e5e5" />
 </a>
 
 ##
