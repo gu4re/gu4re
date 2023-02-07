@@ -25,6 +25,7 @@
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) 
 ![SQL Developer](https://img.shields.io/badge/-Oracle%20SQL%20Developer-%23bc6050?style=for-the-badge&logo=oracle&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Just In Mind](https://img.shields.io/badge/-JustInMind-blueviolet?style=for-the-badge&logo=joplin&logoColor=white)
 
 # 📊 GitHub Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
