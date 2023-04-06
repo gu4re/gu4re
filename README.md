@@ -4,7 +4,7 @@
 🤝🏼  I’m looking for help with automations in OS systems. I'm trying to make lives easier developing new automations of day-a-day field so hope someone has something to add!!.<br>
 📚  I’m currently learning Automations in OS systems but I´m always working on sth...i'm always fiddling with everything related to PC!<br>
 💬 [Ask me here](https://github.com/gu4re/gu4re/issues) about any software/hardware questions! I'll try to help you as far as I know.<br>
-🛠   I´m working on PC building so I can advise you about any hardware question too. <br>
+🛠   I´m working on PC building so I can help you about any hardware question too. <br>
 ⚡  Feel free to read and fork my projects!<br> 
 ⚠   Segmentation fault (core dumped)
 
