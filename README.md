@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏼‍🎓    I’m currently taking my third year on Computer Engineering at [@URJC](https://urjc.es)<br>
+👨🏼‍🎓    I’m currently taking my last year on Computer Engineering at [@URJC](https://urjc.es)<br>
 🕴🕴  Able to collaborate in everything!! Always wanting to improve myself in every computer's field. <br>
 🤝🏼  I’m looking for help with automations in OS systems. I'm trying to make lives easier developing new automations of day-a-day field so hope someone has something to add!!.<br>
 📚  I’m currently learning Automations in OS systems but I´m always working on sth...i'm always fiddling with everything related to PC!<br>
